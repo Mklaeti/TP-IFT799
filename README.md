@@ -1,4 +1,4 @@
-# TP-IFT799
+# TP-IFT799 (Science des données)
 Construction d’un système de recommandation mixte (basé sur le contenu et la collaboration) avec Python
 
 - Exploitation de l’algorithme de K-Means pour effectuer une séparation de classes
